@@ -1,0 +1,1 @@
+﻿This folder contains the file 2022_Muller_Baldey_Processed.txt. This subset of BALDEY was analyzed for the paper "Decomposition of Plurals in Dutch: Evidence for a Parallel Auditory Dual-Route Model" published in the CLIN Journal Volume 11. In the paper, the dataset is described in detail.
